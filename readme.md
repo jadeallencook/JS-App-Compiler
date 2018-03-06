@@ -15,8 +15,8 @@ After you've created your app, copy/paste the _compile.php_ into your project's 
 ```php
     <?php
         $app = "index.html";
-        $js = ["app.js"];
-        $css = ["style.css"];
+        $js = ["name.js"];
+        $css = ["name.css"];
         $file = "index.embed.html";
     ?>
 ```
