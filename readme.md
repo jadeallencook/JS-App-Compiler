@@ -2,11 +2,8 @@
 
 In order to use JS App Compiler, your CSS & JS includes __must__ be formatted like this.
 
-```css
+```html
     <link rel="stylesheet" href="name.css" />
-```
-
-```js
     <script src="name.js"></script>
 ```
 
